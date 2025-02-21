@@ -56,4 +56,4 @@ Os desafios incluem:
 
 Caso tenha dúvidas ou sugestões, entre em contato comigo via LinkedIn ou pelo meu GitHub.
 
-Matheus Pedra[https://www.linkedin.com/in/matheus-gustavo11/]
+[Matheus Pedra](https://www.linkedin.com/in/matheus-gustavo11/)
